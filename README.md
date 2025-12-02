@@ -5,9 +5,5 @@ The database is motivated by the chapter [DBDB: Dog Bed Database](aosabook.org/e
 
 developed by Python3.0 that implements a simple key/value database, aims to preserve data in the face of  computer crashes and error conditions.
 
-# Future Work
-I want to develop a relational database that is clear in concepts, evolve by interfaces to teach concepts in database.
-How? By providing APIs for user, they can code iteratively and finish the whole system.
-For example, first providing a SQL parser and let them to make an simple backend in an indirection layer.
-
-# MeiDB
+# Future work
+I intend to build a relational database framework specifically designed to teach database concepts. This will be an evolutionary platform where users progressively implement the system by interacting with graduated APIs. The learning process is hands-on and iterative; for example, users will first receive a SQL parser and then code a basic backend indirection layer.
